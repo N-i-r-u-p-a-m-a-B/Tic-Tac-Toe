@@ -93,4 +93,4 @@ README.md            # Project description and setup instructions
 
 ## 👨‍💻 Author
 
-* **Nirupama B** – [Your GitHub](https://github.com/N-i-r-u-p-a-m-a-B)
+* **Nirupama B** – [https://github.com/N-i-r-u-p-a-m-a-B]
