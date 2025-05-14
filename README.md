@@ -93,17 +93,4 @@ README.md            # Project description and setup instructions
 
 ## 👨‍💻 Author
 
-* **Your Name** – [Your GitHub](https://github.com/your-username)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
----
-
-Would you like this in a downloadable `.md` file or formatted into a Word or PDF document?
-```
+* **Your Name** – [Your GitHub](https://github.com/N-i-r-u-p-a-m-a-B)
