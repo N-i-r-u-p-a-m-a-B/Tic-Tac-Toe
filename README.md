@@ -1,7 +1,3 @@
-Here's a complete and clean **README.md** file for your **Tic-Tac-Toe Java Console Project**. You can include this in your project folder to explain what the project does, how to use it, and how it works.
-
----
-
 ### 📄 `README.md` – Tic-Tac-Toe Java Console Game
 
 ````markdown
